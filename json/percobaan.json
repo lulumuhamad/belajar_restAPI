@@ -1,0 +1,32 @@
+[
+{
+
+	"nama"	: "Lulu Muhamad Ulumudin",
+	"umur"	: 23,
+	"NIM"	: "14121042",
+	"lulus"	: true,
+	"hobby"	: [
+		"coding",
+		"touring"],
+	"pembimbing"	:
+	{
+		"pembimbing1": "Ozzi Suria",
+		"pembimbing2": "Anief Fauzan Rozie"
+	}
+},
+{
+
+	"nama"	: "Artika Sari",
+	"umur"	: 23,
+	"NIM"	: "14121014",
+	"lulus"	: true,
+	"hobby"	: [
+		"coding",
+		"touring"],
+	"pembimbing"	:
+	{
+		"pembimbing1": "Putri Taqwa",
+		"pembimbing2": "A sidiq"
+	}
+}
+]
